@@ -1,0 +1,18 @@
+h1{
+  color:red;
+  font-family: helvetica;
+  font-style: oblique;
+  font-size: 200px;
+  font-stretch: ultra-condensed;
+  opacity:80%;
+}
+body{
+  background-color: violet;
+opacity: 70%;
+}
+
+p{
+  color:mintcream;
+  font-size: 24px;
+
+}
